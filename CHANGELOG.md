@@ -1,0 +1,1 @@
+# The `yul-easycrypt` changelog
